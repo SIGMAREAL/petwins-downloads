@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "productName": "PEtwins",
+  "channel": "latest",
+  "version": "0.0.17",
+  "tag": "v0.0.17",
+  "publishedAt": "2026-04-15T12:54:25.361Z",
+  "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.17",
+  "downloads": {
+    "dmg": {
+      "name": "PEtwins-0.0.17-arm64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.17/PEtwins-0.0.17-arm64.dmg"
+    },
+    "zip": {
+      "name": "PEtwins-0.0.17-arm64-mac.zip",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.17/PEtwins-0.0.17-arm64-mac.zip"
+    }
+  }
+}
