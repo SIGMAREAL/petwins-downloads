@@ -2,23 +2,23 @@
   "schemaVersion": 1,
   "productName": "PEtwins",
   "channel": "latest",
-  "version": "0.0.19",
-  "tag": "v0.0.19",
-  "publishedAt": "2026-04-27T12:29:01.953Z",
+  "version": "0.0.20",
+  "tag": "v0.0.20",
+  "publishedAt": "2026-04-30T15:55:50.566Z",
   "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
-  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.19",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.20",
   "downloads": {
     "dmg": {
-      "name": "Petwins_0.0.19_aarch64.dmg",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.19/Petwins_0.0.19_aarch64.dmg"
+      "name": "Petwins_0.0.20_aarch64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.20/Petwins_0.0.20_aarch64.dmg"
     },
     "updater": {
-      "name": "Petwins_0.0.19_aarch64.app.tar.gz",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.19/Petwins_0.0.19_aarch64.app.tar.gz"
+      "name": "Petwins_0.0.20_aarch64.app.tar.gz",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.20/Petwins_0.0.20_aarch64.app.tar.gz"
     },
     "updaterSignature": {
-      "name": "Petwins_0.0.19_aarch64.app.tar.gz.sig",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.19/Petwins_0.0.19_aarch64.app.tar.gz.sig"
+      "name": "Petwins_0.0.20_aarch64.app.tar.gz.sig",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.20/Petwins_0.0.20_aarch64.app.tar.gz.sig"
     }
   },
   "manifestAsset": {
