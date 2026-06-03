@@ -1,11 +1,11 @@
 {
-  "version": "0.0.36",
-  "notes": "Petwins 0.0.36",
-  "pub_date": "2026-06-02T09:57:50.947Z",
+  "version": "0.0.38",
+  "notes": "Petwins 0.0.38",
+  "pub_date": "2026-06-03T23:16:13.011Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMEZReDVwRFh4dng0SHRmV2lDYlVNUDJYVkVmRFBHMG1wUGpEbnU5SEJ6ajJJZ2ZkeU01RzVST04vTkZsOUJLdXFsazFEVk04Ty93SzRkWlo5Z01iUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzkzMTUwCWZpbGU6UGV0d2lucy5hcHAudGFyLmd6CjI1OWRkcTU2anVwNU5wYU9ta0piTE11UVNobHBCRFQ3aDVyVzdhb0I2YUV3cnRHSG9Zb08zWkd4VytTTmU2c3A4b1FvbW13ekpFZUlYTGtUK3lTd0RnPT0K",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.36/Petwins_0.0.36_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMEdGTm9BaHRkbHQ3V1lDVGtiNHV6S2xZRG1lb3ptV3pCcjNJRE1RQTdFditqcUdhWSsvWi9qVDJBaGxLQWVsZ2c3MnRCcEtoTEIrbVlOeGFtLy94T3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTI3MzU4CWZpbGU6UGV0d2lucy5hcHAudGFyLmd6CjBDbzg5dkhEdUFFZzZBeEp5aHJPcmdvdmJFK0dkWjd1OStxUC9VYUdBK0l2S01oZmN0Z3p5SXgrVXFWeHBJdUtEdTlyc2FwZVRMb3B3djJhNzdNckFnPT0K",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.38/Petwins_0.0.38_aarch64.app.tar.gz"
     }
   }
 }
