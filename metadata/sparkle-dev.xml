@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Petwins</title>
+        <item>
+            <title>0.0.42</title>
+            <pubDate>Mon, 08 Jun 2026 01:44:04 +0800</pubDate>
+            <sparkle:channel>dev</sparkle:channel>
+            <sparkle:version>0.0.42</sparkle:version>
+            <sparkle:shortVersionString>0.0.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.42/Petwins_0.0.42_aarch64.app.tar.gz" length="316425450" type="application/octet-stream" sparkle:edSignature="af55NeUE2sO3MjD3Fq/qrCFHUGaLuyxlJbYYuZy0/QsX4gif+l9X4vRim7TDBl75unEeq8BMd1bzIi5sduw0AA=="/>
+        </item>
+    </channel>
+</rss>
