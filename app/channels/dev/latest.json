@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "productName": "PEtwins",
+  "channel": "dev",
+  "version": "0.0.42",
+  "tag": "v0.0.42",
+  "publishedAt": "2026-06-07T17:52:54.896Z",
+  "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.42",
+  "downloads": {
+    "dmg": {
+      "name": "Petwins_0.0.42_aarch64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.42/Petwins_0.0.42_aarch64.dmg"
+    },
+    "updater": {
+      "name": "Petwins_0.0.42_aarch64.app.tar.gz",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.42/Petwins_0.0.42_aarch64.app.tar.gz"
+    },
+    "updaterSignature": {
+      "name": "Petwins_0.0.42_aarch64.app.tar.gz.sig",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.42/Petwins_0.0.42_aarch64.app.tar.gz.sig"
+    }
+  },
+  "manifestAsset": {
+    "name": "dev.json",
+    "path": "app/channels/dev/latest.json"
+  },
+  "updaterManifestAsset": {
+    "name": "tauri-dev.json",
+    "path": "app/channels/dev/tauri-latest.json"
+  },
+  "sparkleAppcastAsset": {
+    "name": "sparkle-dev.xml",
+    "path": "app/channels/dev/appcast.xml"
+  }
+}
