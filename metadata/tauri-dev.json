@@ -1,0 +1,11 @@
+{
+  "version": "0.0.42",
+  "notes": "Petwins 0.0.42",
+  "pub_date": "2026-06-07T17:52:54.896Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMEF6OVZpVjJKbmFFZ1BtWk8rcWdqOUZZVit2M1pGbVVDYWgwaWRzMUZXR2N3MnpzNWJaRGZQSlBTV0NpY0VISzdZejUxSmljSDkyclFQVkNGS3NnT1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODUzOTg1CWZpbGU6UGV0d2lucy5hcHAudGFyLmd6CkVyTjJ1TjlENFQ2eWFNRzZkbUV2S0dDTkc3c3EzaWVZdXpZVElKNUViUXVBRk9idzQ5MWEwc0tQV0E2SEwwWVdxVVVvWXZWampYaitCRHQyL3NGOUNRPT0K",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.42/Petwins_0.0.42_aarch64.app.tar.gz"
+    }
+  }
+}
