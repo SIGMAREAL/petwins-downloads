@@ -4,11 +4,22 @@
         <title>Petwins</title>
         <item>
             <title>0.0.47</title>
-            <pubDate>Tue, 09 Jun 2026 04:04:30 +0800</pubDate>
+            <pubDate>Tue, 09 Jun 2026 04:18:39 +0800</pubDate>
             <sparkle:version>0.0.47</sparkle:version>
             <sparkle:shortVersionString>0.0.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.47/Petwins_0.0.47_aarch64.app.tar.gz" length="284771428" type="application/octet-stream" sparkle:edSignature="Jxy9uZ43PQHR8sM6GvBn5aAJD7PVCSSU3vwJYyUvOX1BtFmWoxS0sb2BPiCmhxyjqoLja0vF3441lvF7fLe3Aw=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.47/Petwins_0.0.47_aarch64.app.tar.gz" length="284726500" type="application/octet-stream" sparkle:edSignature="VNMVcX8sJHTjxmC9pegdnL4feVPzmPSFiiqew6B3G0emrhJ+ozZPkr8LwA8CukiNiB32VoRIrGT3+CjXdMbtBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.47/Petwins0.0.47-0.0.45.delta" sparkle:deltaFrom="0.0.45" length="1299102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="gZsmRan3RYWamj376iJFwPSr1YfTxTWlavj/IijhlxBM8sxKCqDVd4oTkAG4s16Z8vi4vged/jypSkhFpIESBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.0.45</title>
+            <pubDate>Mon, 08 Jun 2026 17:35:42 +0800</pubDate>
+            <sparkle:version>0.0.45</sparkle:version>
+            <sparkle:shortVersionString>0.0.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.47/Petwins_0.0.45_aarch64.app.tar.gz" length="337123109" type="application/octet-stream" sparkle:edSignature="Qx+VT6LxKvWISjpYd/zrjOXjNchH2HWpWy3DVXQnP8eMOaUju6EL8fltg7pYlCzyjZK1znFHDYHIeBkUNJnwCA=="/>
         </item>
     </channel>
 </rss>
