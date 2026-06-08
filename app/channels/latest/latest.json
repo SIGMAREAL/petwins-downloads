@@ -2,31 +2,35 @@
   "schemaVersion": 1,
   "productName": "PEtwins",
   "channel": "latest",
-  "version": "0.0.41",
-  "tag": "v0.0.41",
-  "publishedAt": "2026-06-06T23:25:46.145Z",
+  "version": "0.0.45",
+  "tag": "v0.0.45",
+  "publishedAt": "2026-06-08T10:02:41.293Z",
   "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
-  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.41",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.45",
   "downloads": {
     "dmg": {
-      "name": "Petwins_0.0.41_x64.dmg",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.41/Petwins_0.0.41_x64.dmg"
+      "name": "Petwins_0.0.45_aarch64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.45/Petwins_0.0.45_aarch64.dmg"
     },
     "updater": {
-      "name": "Petwins_0.0.41_x64.app.tar.gz",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.41/Petwins_0.0.41_x64.app.tar.gz"
+      "name": "Petwins_0.0.45_aarch64.app.tar.gz",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.45/Petwins_0.0.45_aarch64.app.tar.gz"
     },
     "updaterSignature": {
-      "name": "Petwins_0.0.41_x64.app.tar.gz.sig",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.41/Petwins_0.0.41_x64.app.tar.gz.sig"
+      "name": "Petwins_0.0.45_aarch64.app.tar.gz.sig",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.45/Petwins_0.0.45_aarch64.app.tar.gz.sig"
     }
   },
   "manifestAsset": {
     "name": "latest.json",
-    "path": "metadata/latest.json"
+    "path": "app/channels/latest/latest.json"
   },
   "updaterManifestAsset": {
     "name": "tauri-latest.json",
-    "path": "metadata/tauri-latest.json"
+    "path": "app/channels/latest/tauri-latest.json"
+  },
+  "sparkleAppcastAsset": {
+    "name": "sparkle-latest.xml",
+    "path": "app/channels/latest/appcast.xml"
   }
 }
