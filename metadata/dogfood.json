@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "productName": "PEtwins",
+  "channel": "dogfood",
+  "version": "0.0.46",
+  "tag": "v0.0.46",
+  "publishedAt": "2026-06-08T16:07:19.100Z",
+  "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.46",
+  "downloads": {
+    "dmg": {
+      "name": "Petwins_0.0.46_aarch64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.dmg"
+    },
+    "updater": {
+      "name": "Petwins_0.0.46_aarch64.app.tar.gz",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz"
+    },
+    "updaterSignature": {
+      "name": "Petwins_0.0.46_aarch64.app.tar.gz.sig",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz.sig"
+    }
+  },
+  "manifestAsset": {
+    "name": "dogfood.json",
+    "path": "app/channels/dogfood/latest.json"
+  },
+  "updaterManifestAsset": {
+    "name": "tauri-dogfood.json",
+    "path": "app/channels/dogfood/tauri-latest.json"
+  },
+  "sparkleAppcastAsset": {
+    "name": "sparkle-dogfood.xml",
+    "path": "app/channels/dogfood/appcast.xml"
+  },
+  "downloadsByTarget": {
+    "darwin-aarch64": {
+      "dmg": {
+        "name": "Petwins_0.0.46_aarch64.dmg",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.dmg"
+      },
+      "updater": {
+        "name": "Petwins_0.0.46_aarch64.app.tar.gz",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz"
+      },
+      "updaterSignature": {
+        "name": "Petwins_0.0.46_aarch64.app.tar.gz.sig",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz.sig"
+      }
+    }
+  }
+}
