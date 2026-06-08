@@ -4,11 +4,11 @@
         <title>Petwins</title>
         <item>
             <title>0.0.46</title>
-            <pubDate>Mon, 08 Jun 2026 23:57:56 +0800</pubDate>
+            <pubDate>Tue, 09 Jun 2026 00:39:17 +0800</pubDate>
             <sparkle:version>0.0.46</sparkle:version>
             <sparkle:shortVersionString>0.0.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz" length="284776697" type="application/octet-stream" sparkle:edSignature="6VbMvA/bWHXee8y5ypmNVYztraVca68yLFy8RLxtQq/cRnJSlWe80MLCT2fDfe9/49I2bJFRG0vDgcsE3VCtDA=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz" length="284775917" type="application/octet-stream" sparkle:edSignature="dRB8VK1ksuIUfE1pPMwdbwrsqyWvVFcdqDm6BKBCruTdLul3Tv84AqXLbsB7PCZ3pFxLx7PuzOClD29PlAsPAg=="/>
         </item>
     </channel>
 </rss>
