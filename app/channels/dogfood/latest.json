@@ -2,23 +2,23 @@
   "schemaVersion": 1,
   "productName": "PEtwins",
   "channel": "dogfood",
-  "version": "0.0.46",
-  "tag": "v0.0.46",
-  "publishedAt": "2026-06-08T18:43:37.585Z",
+  "version": "0.0.49",
+  "tag": "v0.0.49",
+  "publishedAt": "2026-06-09T16:58:44.336Z",
   "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
-  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.46",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.49",
   "downloads": {
     "dmg": {
-      "name": "Petwins_0.0.46_aarch64.dmg",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.dmg"
+      "name": "Petwins_0.0.49_aarch64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.49/Petwins_0.0.49_aarch64.dmg"
     },
     "updater": {
-      "name": "Petwins_0.0.46_aarch64.app.tar.gz",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz"
+      "name": "Petwins_0.0.49_aarch64.app.tar.gz",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.49/Petwins_0.0.49_aarch64.app.tar.gz"
     },
     "updaterSignature": {
-      "name": "Petwins_0.0.46_aarch64.app.tar.gz.sig",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz.sig"
+      "name": "Petwins_0.0.49_aarch64.app.tar.gz.sig",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.49/Petwins_0.0.49_aarch64.app.tar.gz.sig"
     }
   },
   "manifestAsset": {
@@ -36,30 +36,16 @@
   "downloadsByTarget": {
     "darwin-aarch64": {
       "dmg": {
-        "name": "Petwins_0.0.46_aarch64.dmg",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.dmg"
+        "name": "Petwins_0.0.49_aarch64.dmg",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.49/Petwins_0.0.49_aarch64.dmg"
       },
       "updater": {
-        "name": "Petwins_0.0.46_aarch64.app.tar.gz",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz"
+        "name": "Petwins_0.0.49_aarch64.app.tar.gz",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.49/Petwins_0.0.49_aarch64.app.tar.gz"
       },
       "updaterSignature": {
-        "name": "Petwins_0.0.46_aarch64.app.tar.gz.sig",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_aarch64.app.tar.gz.sig"
-      }
-    },
-    "darwin-x86_64": {
-      "dmg": {
-        "name": "Petwins_0.0.46_x64.dmg",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_x64.dmg"
-      },
-      "updater": {
-        "name": "Petwins_0.0.46_x64.app.tar.gz",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_x64.app.tar.gz"
-      },
-      "updaterSignature": {
-        "name": "Petwins_0.0.46_x64.app.tar.gz.sig",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.46/Petwins_0.0.46_x64.app.tar.gz.sig"
+        "name": "Petwins_0.0.49_aarch64.app.tar.gz.sig",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.49/Petwins_0.0.49_aarch64.app.tar.gz.sig"
       }
     }
   }
