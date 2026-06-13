@@ -34,8 +34,8 @@
     "path": "app/channels/latest/appcast.xml"
   },
   "platformSparkleAppcastAsset": {
-    "name": "sparkle-latest-macos-arm64.xml",
-    "path": "app/channels/latest/macos/arm64/appcast.xml"
+    "name": "sparkle-latest-macos-x64.xml",
+    "path": "app/channels/latest/macos/x64/appcast.xml"
   },
   "downloadsByTarget": {
     "darwin-aarch64": {
@@ -50,6 +50,20 @@
       "updaterSignature": {
         "name": "Petwins_0.0.54_aarch64.app.tar.gz.sig",
         "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_aarch64.app.tar.gz.sig"
+      }
+    },
+    "darwin-x86_64": {
+      "dmg": {
+        "name": "Petwins_0.0.54_x64.dmg",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_x64.dmg"
+      },
+      "updater": {
+        "name": "Petwins_0.0.54_x64.app.tar.gz",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_x64.app.tar.gz"
+      },
+      "updaterSignature": {
+        "name": "Petwins_0.0.54_x64.app.tar.gz.sig",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_x64.app.tar.gz.sig"
       }
     }
   },
@@ -70,6 +84,25 @@
         "updaterSignature": {
           "name": "Petwins_0.0.54_aarch64.app.tar.gz.sig",
           "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_aarch64.app.tar.gz.sig"
+        }
+      }
+    },
+    "darwin-x86_64": {
+      "version": "0.0.54",
+      "tag": "v0.0.54",
+      "publishedAt": "2026-06-12T12:48:00.000Z",
+      "downloads": {
+        "dmg": {
+          "name": "Petwins_0.0.54_x64.dmg",
+          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_x64.dmg"
+        },
+        "updater": {
+          "name": "Petwins_0.0.54_x64.app.tar.gz",
+          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_x64.app.tar.gz"
+        },
+        "updaterSignature": {
+          "name": "Petwins_0.0.54_x64.app.tar.gz.sig",
+          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.54/Petwins_0.0.54_x64.app.tar.gz.sig"
         }
       }
     }
