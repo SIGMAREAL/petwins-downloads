@@ -8,7 +8,7 @@
             <sparkle:version>0.0.56</sparkle:version>
             <sparkle:shortVersionString>0.0.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.56/Petwins_0.0.56_aarch64.app.tar.gz" length="127265093" type="application/octet-stream" sparkle:edSignature="KbcVoCRFnCBDWub7NO+W22JE9/HIYhXd4Q3clBsI1qbpFgJalNg3Q2DuMA5fFWcku8FJk5Z99BpggWFwbp/sBA=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.56/Petwins_0.0.56_aarch64.app.tar.gz" length="145449919" type="application/octet-stream" sparkle:edSignature="CcIyPTmms1dPVn0M0ruWKc4bKaeaT21JOqUYdm13QkCn7REC4rCSThbgtypLI0IYPq9zfwQwzeBmiOuggbjbDQ=="/>
         </item>
     </channel>
 </rss>
