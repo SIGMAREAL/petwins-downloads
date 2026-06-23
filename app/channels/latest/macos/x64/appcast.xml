@@ -8,7 +8,7 @@
             <sparkle:version>0.0.63</sparkle:version>
             <sparkle:shortVersionString>0.0.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.63/Petwins_0.0.63_x64.app.tar.gz" length="164814283" type="application/octet-stream" sparkle:edSignature="SfKduiLpv35qzJfph1EbXJN7bLzj2TQXoiez8UjPgGovtsOY3JSwoWXAv1fQwYgy2NsegW9IPKZFpGDpj6RlCg=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.63/Petwins_0.0.63_x64.app.tar.gz" length="153188697" type="application/octet-stream" sparkle:edSignature="3602kB/V9zmSPP+MruoG5M2SS23HFnj7xDaDE+fsYbhqYH+j/9EHDvu0GfrSNL8sGQjKdzWZtpiFVOCahWR2CA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.63/Petwins0.0.63-0.0.45.delta" sparkle:deltaFrom="0.0.45" length="8143230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="4CgkA8f2Qvp3l+eNqBoRQs9S8Lz11xEfqc1EB5w4PdqhqL9zG/m/SUYOplsO6aQhx/5R20moRfsvHieElTDpDw=="/>
             </sparkle:deltas>
