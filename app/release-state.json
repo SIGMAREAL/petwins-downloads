@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "productName": "PEtwins",
-  "updatedAt": "2026-06-30T20:07:15.573Z",
+  "updatedAt": "2026-06-30T20:07:32.997Z",
   "channels": {
     "latest": {
       "darwin-aarch64": {
-        "version": "0.0.54",
-        "tag": "v0.0.54",
-        "updatedAt": "2026-06-13T07:43:32.716Z"
+        "version": "0.0.71",
+        "tag": "v0.0.71",
+        "updatedAt": "2026-06-30T20:07:32.997Z"
       },
       "darwin-x86_64": {
         "version": "0.0.54",
