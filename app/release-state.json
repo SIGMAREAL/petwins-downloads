@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "productName": "PEtwins",
-  "updatedAt": "2026-07-01T20:28:26.459Z",
+  "updatedAt": "2026-07-02T13:35:35.217Z",
   "channels": {
     "latest": {
       "darwin-aarch64": {
-        "version": "0.0.71",
-        "tag": "v0.0.71",
-        "updatedAt": "2026-06-30T20:07:32.997Z"
+        "version": "0.0.79",
+        "tag": "v0.0.79",
+        "updatedAt": "2026-07-02T13:35:35.217Z"
       },
       "darwin-x86_64": {
         "version": "0.0.63",
@@ -20,11 +20,6 @@
         "version": "0.0.42",
         "tag": "v0.0.42",
         "updatedAt": "2026-06-13T07:43:36.680Z"
-      },
-      "darwin-aarch64": {
-        "version": "0.0.79",
-        "tag": "v0.0.79",
-        "updatedAt": "2026-07-01T20:28:26.459Z"
       }
     }
   }
