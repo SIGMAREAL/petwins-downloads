@@ -3,18 +3,18 @@
     <channel>
         <title>Petwins</title>
         <item>
-            <title>0.0.85</title>
-            <pubDate>Wed, 08 Jul 2026 16:39:57 +0800</pubDate>
-            <sparkle:version>0.0.85</sparkle:version>
-            <sparkle:shortVersionString>0.0.85</sparkle:shortVersionString>
+            <title>0.0.86</title>
+            <pubDate>Wed, 08 Jul 2026 17:17:50 +0800</pubDate>
+            <sparkle:version>0.0.86</sparkle:version>
+            <sparkle:shortVersionString>0.0.86</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.85/Petwins_0.0.85_aarch64.app.tar.gz" length="129074504" type="application/octet-stream" sparkle:edSignature="6+pkl4NORb5B9G/lKEPbDsNLkTFMRk+0PsmtU0HedWansJOQCmOwD/JU3VUaYuSFKiidLbBxJCRrRU4gqCu2AA=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz" length="129077096" type="application/octet-stream" sparkle:edSignature="+ToyHY+ioPrE9xCqwI71kfIVtrqNm5IisQx5s9yyQBhrx5qz4tnuzbn19fycXbxCs4ggyrEbg6l5vRlyTTsVDw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.85/Petwins0.0.85-0.0.82.delta" sparkle:deltaFrom="0.0.82" length="3138398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="g8zrR82vtCVFGc6r8pYq6syJv0YC66vM8SRy05MFXSc0lmSfCmOggky8uNNL0TgeBNw71n1v3CENQIDeqbH5BQ=="/>
-                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.85/Petwins0.0.85-0.0.81.delta" sparkle:deltaFrom="0.0.81" length="3605110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="0iv9hJEzxJ/Ys0EYxFyruSzGO36eb5v21yaoaoC8zbnLT5VHqBxywHDpq9oTApmY/bjgS43mfQ61ct88M/7KAA=="/>
-                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.85/Petwins0.0.85-0.0.80.delta" sparkle:deltaFrom="0.0.80" length="3679806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="HfLWJDnUOijOmMRJL/Dg/BKGgVtrnC9oBoA7ty5/EeRnGRTrHUHIdkvMJf8J6IvhKVtEOPk1Mm/shJW7MrkSAw=="/>
-                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.85/Petwins0.0.85-0.0.79.delta" sparkle:deltaFrom="0.0.79" length="3469530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="o7hm+LxFN3BFKEBpv0VPyR7CmsmAkJo+vwI27HOUjVpZdofk3g5mWhBK9AhlAwYMeQm2Bed/zer4EtkLnAczDg=="/>
-                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.85/Petwins0.0.85-0.0.78.delta" sparkle:deltaFrom="0.0.78" length="3505570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="niVo1a6f+7yl5F+dF9hj6cOOXjXf6uiNI5tebepKOqy+r/GCkVqfgcsGoXyBq7BvKoNe9iWyAcaXL+QpOMApBQ=="/>
+                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins0.0.86-0.0.85.delta" sparkle:deltaFrom="0.0.85" length="3223390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="Fawf5yVKCD/GFj8Vq7t8nq++AST2rGUSwujc8SbqjnHt8SlSa6yYf04l3HfhH6WmHLcBHjdqUlwd8l+YLwkXDw=="/>
+                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins0.0.86-0.0.82.delta" sparkle:deltaFrom="0.0.82" length="3506702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="uvOTlkoXlQVdFj6HaRyR3rVwWFomG7ghG8x0ovBpKGBlj+vuMx/lG6nfnYPNjmI+Lb4t/lnHmbVRirWjOliGDQ=="/>
+                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins0.0.86-0.0.81.delta" sparkle:deltaFrom="0.0.81" length="3595718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="fTa6LJfD+4GY9/4S7YeSnRIkrg0hTDCjRuUtlRhoJpBeUi1MST25scBuZqsEuloPJzClVJjIwN96X6RzwldrCA=="/>
+                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins0.0.86-0.0.80.delta" sparkle:deltaFrom="0.0.80" length="3636246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="9UvTKGTRinog+B0E9pmrIr0Wqqm//QQAY5QD+bv3Lvf+TzGFIcsEXKEqVJNXTvNuKwhej4ey6Hjw/ioC0G/RCw=="/>
+                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins0.0.86-0.0.79.delta" sparkle:deltaFrom="0.0.79" length="3707178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="DsnJfyE809NzyX9ixrPcb0k7jpgTXvVNVLdRC3/4jgf2xE13tlxtrCSMxYJqVyrCbxYjzKc/w5T/5DLMkL9eBQ=="/>
             </sparkle:deltas>
         </item>
         
