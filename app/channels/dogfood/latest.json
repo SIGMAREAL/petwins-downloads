@@ -2,23 +2,23 @@
   "schemaVersion": 2,
   "productName": "PEtwins",
   "channel": "dogfood",
-  "version": "0.0.86",
-  "tag": "v0.0.86",
-  "publishedAt": "2026-07-08T09:25:06.890Z",
+  "version": "0.0.87",
+  "tag": "v0.0.87",
+  "publishedAt": "2026-07-08T18:14:10.172Z",
   "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
-  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.86",
+  "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.0.87",
   "downloads": {
     "dmg": {
-      "name": "Petwins_0.0.86_aarch64.dmg",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.dmg"
+      "name": "Petwins_0.0.87_aarch64.dmg",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.dmg"
     },
     "updater": {
-      "name": "Petwins_0.0.86_aarch64.app.tar.gz",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz"
+      "name": "Petwins_0.0.87_aarch64.app.tar.gz",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.app.tar.gz"
     },
     "updaterSignature": {
-      "name": "Petwins_0.0.86_aarch64.app.tar.gz.sig",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz.sig"
+      "name": "Petwins_0.0.87_aarch64.app.tar.gz.sig",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.app.tar.gz.sig"
     }
   },
   "manifestAsset": {
@@ -54,16 +54,16 @@
     },
     "darwin-aarch64": {
       "dmg": {
-        "name": "Petwins_0.0.86_aarch64.dmg",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.dmg"
+        "name": "Petwins_0.0.87_aarch64.dmg",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.dmg"
       },
       "updater": {
-        "name": "Petwins_0.0.86_aarch64.app.tar.gz",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz"
+        "name": "Petwins_0.0.87_aarch64.app.tar.gz",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.app.tar.gz"
       },
       "updaterSignature": {
-        "name": "Petwins_0.0.86_aarch64.app.tar.gz.sig",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz.sig"
+        "name": "Petwins_0.0.87_aarch64.app.tar.gz.sig",
+        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.app.tar.gz.sig"
       }
     }
   },
@@ -88,21 +88,21 @@
       }
     },
     "darwin-aarch64": {
-      "version": "0.0.86",
-      "tag": "v0.0.86",
-      "publishedAt": "2026-07-08T09:25:06.890Z",
+      "version": "0.0.87",
+      "tag": "v0.0.87",
+      "publishedAt": "2026-07-08T18:14:10.172Z",
       "downloads": {
         "dmg": {
-          "name": "Petwins_0.0.86_aarch64.dmg",
-          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.dmg"
+          "name": "Petwins_0.0.87_aarch64.dmg",
+          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.dmg"
         },
         "updater": {
-          "name": "Petwins_0.0.86_aarch64.app.tar.gz",
-          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz"
+          "name": "Petwins_0.0.87_aarch64.app.tar.gz",
+          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.app.tar.gz"
         },
         "updaterSignature": {
-          "name": "Petwins_0.0.86_aarch64.app.tar.gz.sig",
-          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.86/Petwins_0.0.86_aarch64.app.tar.gz.sig"
+          "name": "Petwins_0.0.87_aarch64.app.tar.gz.sig",
+          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.87/Petwins_0.0.87_aarch64.app.tar.gz.sig"
         }
       }
     }
