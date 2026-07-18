@@ -3,23 +3,14 @@
     <channel>
         <title>Petwins</title>
         <item>
-            <title>0.0.63</title>
-            <pubDate>Tue, 23 Jun 2026 13:01:27 +0800</pubDate>
-            <sparkle:version>0.0.63</sparkle:version>
-            <sparkle:shortVersionString>0.0.63</sparkle:shortVersionString>
+            <title>0.0.90</title>
+            <pubDate>Wed, 15 Jul 2026 17:22:41 +0800</pubDate>
+            <sparkle:version>0.0.90</sparkle:version>
+            <sparkle:shortVersionString>0.0.90</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.63/Petwins_0.0.63_x64.app.tar.gz" length="153188697" type="application/octet-stream" sparkle:edSignature="3602kB/V9zmSPP+MruoG5M2SS23HFnj7xDaDE+fsYbhqYH+j/9EHDvu0GfrSNL8sGQjKdzWZtpiFVOCahWR2CA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.63/Petwins0.0.63-0.0.45.delta" sparkle:deltaFrom="0.0.45" length="8143230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="4CgkA8f2Qvp3l+eNqBoRQs9S8Lz11xEfqc1EB5w4PdqhqL9zG/m/SUYOplsO6aQhx/5R20moRfsvHieElTDpDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.45</title>
-            <pubDate>Mon, 08 Jun 2026 17:49:35 +0800</pubDate>
-            <sparkle:version>0.0.45</sparkle:version>
-            <sparkle:shortVersionString>0.0.45</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.63/Petwins_0.0.45_x64.app.tar.gz" length="342819352" type="application/octet-stream" sparkle:edSignature="dzBRq4GfTQ5L7XJby6CLvPF8iiHwTEPdNeyT6GrbXw0G1JT+nO5ATrXM2UZysMv/QcoxONKmddyHoAqWtq22Bg=="/>
-        </item>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.90/Petwins_0.0.90_x64.app.tar.gz" length="135308982" type="application/octet-stream" sparkle:edSignature="goVDuzBF2WslFWefSJoxlBX8TekAGvjXQpPcxcvyKdFPSBTCeHarNBZ4h0tH+/iEEnYXIqMW6gkqm4v91KsfAw=="/>
+</item>
+        
+        
     </channel>
 </rss>
