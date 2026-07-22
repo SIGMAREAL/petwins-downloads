@@ -8,8 +8,15 @@
             <sparkle:version>0.0.93</sparkle:version>
             <sparkle:shortVersionString>0.0.93</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.93/Petwins_0.0.93_x64.app.tar.gz" length="135367545" type="application/octet-stream" sparkle:edSignature="j8e+v/4FYNP1jAJa+GMIDTeXCmxzz1m9tBNsz7r26c21tpjFkONqnJ3qXzAEZKvkQnTJuYemAxMO4kx9xZUQDQ=="/>
-</item>
+            <enclosure url="https://download.petwins.site/app/releases/v0.0.93/macos/x64/Petwins_0.0.93_x64.app.tar.gz" length="135367545" type="application/octet-stream" sparkle:edSignature="j8e+v/4FYNP1jAJa+GMIDTeXCmxzz1m9tBNsz7r26c21tpjFkONqnJ3qXzAEZKvkQnTJuYemAxMO4kx9xZUQDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://download.petwins.site/app/releases/v0.0.93/macos/x64/%E7%8C%AB%E5%9C%A80.0.93-0.0.92.delta" sparkle:deltaFrom="0.0.92" length="2715414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="MGdGqKSBzV7VdXoSak074g+4c1mjn940XZcrTT4aA3YbIRe2tlChG8UQNZiG8tCdX1Z9/JVr3XNyCnVwFNlfBQ=="/>
+                <enclosure url="https://download.petwins.site/app/releases/v0.0.93/macos/x64/%E7%8C%AB%E5%9C%A80.0.93-0.0.91.delta" sparkle:deltaFrom="0.0.91" length="4319282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="zpOK+cSrphhFiNX1DuX5NVtafUaf0+EPihtAYasFrLgbcjelaU3SDjuQ7T47G1QTtQnV8Z8M6IJjVJS2tnO6CQ=="/>
+                <enclosure url="https://download.petwins.site/app/releases/v0.0.93/macos/x64/%E7%8C%AB%E5%9C%A80.0.93-0.0.90.delta" sparkle:deltaFrom="0.0.90" length="4755814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="dIiL9E7PH1I0bBXHd6ZM87gyXv9hCQveECbL+XFFgozdmQUiHgK7xxXYzQHfUOUTBv5g9orc4+idCJVVP2rpCw=="/>
+                <enclosure url="https://download.petwins.site/app/releases/v0.0.93/macos/x64/%E7%8C%AB%E5%9C%A80.0.93-0.0.85.delta" sparkle:deltaFrom="0.0.85" length="4933058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="PlJUleQ/qbsj6NeLQOtI88j37U8DFCCD4/B5Vuy/Vh1cMzy1KNVsL+oyAa58cG9IQvRXcuzldv/CB6tKHlQOBA=="/>
+                <enclosure url="https://download.petwins.site/app/releases/v0.0.93/macos/x64/%E7%8C%AB%E5%9C%A80.0.93-0.0.63.delta" sparkle:deltaFrom="0.0.63" length="6014046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,zh-Hans,ja,fa" sparkle:edSignature="RjEeM8m6ELnOZMAgDRDHF4flaND5iXt8quz4p/VLgonPLK4teT0OSUuknOva3e7tNNlsCn23HMEP5CoZ/z2nDg=="/>
+            </sparkle:deltas>
+        </item>
         
         
     </channel>
