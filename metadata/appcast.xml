@@ -3,12 +3,12 @@
     <channel>
         <title>Petwins</title>
         <item>
-            <title>0.0.92</title>
-            <pubDate>Sat, 18 Jul 2026 23:38:56 +0800</pubDate>
-            <sparkle:version>0.0.92</sparkle:version>
-            <sparkle:shortVersionString>0.0.92</sparkle:shortVersionString>
+            <title>0.0.93</title>
+            <pubDate>Wed, 22 Jul 2026 16:34:02 +0800</pubDate>
+            <sparkle:version>0.0.93</sparkle:version>
+            <sparkle:shortVersionString>0.0.93</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.92/Petwins_0.0.92_aarch64.app.tar.gz" length="129016257" type="application/octet-stream" sparkle:edSignature="WZCdx6oQpbaHssSFNkkXqotkPITnKEjSsvnKs4tGL5E2PSHD7sOctZ9Man0eol6JZM+ySRccuupEGcNDWlY0AA=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.93/Petwins_0.0.93_aarch64.app.tar.gz" length="129005793" type="application/octet-stream" sparkle:edSignature="2/sJlAFzm716+wsud30ulQXqGoFwrSgBai8lxEj/NDuSk4x85vEmjT2qdtMJqty6BWLAAlQWc02defhcxC8OCg=="/>
 </item>
         
         
