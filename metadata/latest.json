@@ -10,7 +10,7 @@
   "downloads": {
     "dmg": {
       "name": "Petwins_0.1.32_aarch64.dmg",
-      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.32/Petwins_0.1.32_aarch64.dmg"
+      "url": "https://petwins-prod-assets-1327508272.cos.ap-guangzhou.myqcloud.com/releases/v0.1.32/Petwins_0.1.32_aarch64.dmg"
     },
     "updater": {
       "name": "Petwins_0.1.32_aarch64.app.tar.gz",
@@ -41,7 +41,7 @@
     "darwin-aarch64": {
       "dmg": {
         "name": "Petwins_0.1.32_aarch64.dmg",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.32/Petwins_0.1.32_aarch64.dmg"
+        "url": "https://petwins-prod-assets-1327508272.cos.ap-guangzhou.myqcloud.com/releases/v0.1.32/Petwins_0.1.32_aarch64.dmg"
       },
       "updater": {
         "name": "Petwins_0.1.32_aarch64.app.tar.gz",
@@ -55,7 +55,7 @@
     "darwin-x86_64": {
       "dmg": {
         "name": "Petwins_0.1.32_x64.dmg",
-        "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.32/Petwins_0.1.32_x64.dmg"
+        "url": "https://petwins-prod-assets-1327508272.cos.ap-guangzhou.myqcloud.com/releases/v0.1.32/Petwins_0.1.32_x64.dmg"
       },
       "updater": {
         "name": "Petwins_0.1.32_x64.app.tar.gz",
@@ -75,7 +75,7 @@
       "downloads": {
         "dmg": {
           "name": "Petwins_0.1.32_aarch64.dmg",
-          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.32/Petwins_0.1.32_aarch64.dmg"
+          "url": "https://petwins-prod-assets-1327508272.cos.ap-guangzhou.myqcloud.com/releases/v0.1.32/Petwins_0.1.32_aarch64.dmg"
         },
         "updater": {
           "name": "Petwins_0.1.32_aarch64.app.tar.gz",
@@ -94,7 +94,7 @@
       "downloads": {
         "dmg": {
           "name": "Petwins_0.1.32_x64.dmg",
-          "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.32/Petwins_0.1.32_x64.dmg"
+          "url": "https://petwins-prod-assets-1327508272.cos.ap-guangzhou.myqcloud.com/releases/v0.1.32/Petwins_0.1.32_x64.dmg"
         },
         "updater": {
           "name": "Petwins_0.1.32_x64.app.tar.gz",
