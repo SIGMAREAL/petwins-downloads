@@ -4,7 +4,7 @@
   "channel": "latest",
   "version": "0.1.36",
   "tag": "v0.1.36",
-  "publishedAt": "2026-09-25T09:45:59.652Z",
+  "publishedAt": "2026-09-25T10:39:45.826Z",
   "repoUrl": "https://github.com/SIGMAREAL/petwins-downloads",
   "releaseUrl": "https://github.com/SIGMAREAL/petwins-downloads/releases/tag/v0.1.36",
   "downloads": {
@@ -71,7 +71,7 @@
     "darwin-aarch64": {
       "version": "0.1.36",
       "tag": "v0.1.36",
-      "publishedAt": "2026-09-25T09:45:59.652Z",
+      "publishedAt": "2026-09-25T10:39:45.826Z",
       "downloads": {
         "dmg": {
           "name": "Petwins_0.1.36_aarch64.dmg",
