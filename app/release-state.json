@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "productName": "PEtwins",
-  "updatedAt": "2026-10-29T22:30:20.596Z",
+  "updatedAt": "2026-10-31T18:55:31.464Z",
   "channels": {
     "dogfood": {
       "darwin-x86_64": {
@@ -10,9 +10,9 @@
         "updatedAt": "2026-07-22T05:49:00.724Z"
       },
       "darwin-aarch64": {
-        "version": "0.0.92",
-        "tag": "v0.0.92",
-        "updatedAt": "2026-07-22T05:48:54.959Z"
+        "version": "0.1.61",
+        "tag": "v0.1.61",
+        "updatedAt": "2026-10-31T18:55:31.464Z"
       }
     },
     "latest": {
