@@ -1,16 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Petwins</title>
+        <title>猫在</title>
         <item>
-            <title>0.0.92</title>
-            <pubDate>Sat, 18 Jul 2026 23:47:55 +0800</pubDate>
-            <sparkle:version>0.0.92</sparkle:version>
-            <sparkle:shortVersionString>0.0.92</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.0.92/Petwins_0.0.92_x64.app.tar.gz" length="135365445" type="application/octet-stream" sparkle:edSignature="leKF4CSY7Zkz/iDssJ14l5seTy3/oKXTL+O4yH5yznLqWWawMSeHa4C9JAwGR9r608u5hZGb0HoBY6ouUWTpAA=="/>
-</item>
-        
-        
+            <title>0.1.61</title>
+            <pubDate>Sun, 01 Nov 2026 02:22:42 +0800</pubDate>
+            <sparkle:version>0.1.61</sparkle:version>
+            <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.61/Petwins_0.1.61_x64.app.tar.gz" length="82015137" type="application/octet-stream" sparkle:edSignature="flh/Ps0oo4xbcU/f9P0Oyd67eBxI8UBYRKv9NzcYyxu4jhoE3sIu5z2SuJm6yT44q8DYwLDz9u63ENkq6UT0DA=="/>
+        </item>
     </channel>
 </rss>
