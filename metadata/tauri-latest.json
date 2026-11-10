@@ -1,15 +1,15 @@
 {
-  "version": "0.1.53",
-  "notes": "## 0.1.53\n\n- 改善云端宠物创建与历史宠物恢复，提升中断后继续、同步和重新打开时的稳定性。\n- 支持下载兼容的宠物模型与各模型专属动作、行为内容，更新内容时保留正在运行的宠物。\n- 改善宠物隐藏、召回和进食完成后的状态衔接。\n- 减少宠物与开箱窗口准备期间的加载占位。\n- 修复活动历史查询造成的持续内存增长。\n\n本次更新保留已有登录状态、宠物资料与本地外观数据。\n",
-  "pub_date": "2026-10-29T22:30:20.596Z",
+  "version": "0.1.74",
+  "notes": "Petwins 0.1.74",
+  "pub_date": "2026-11-10T14:00:43.187Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMFBqZllHdWwzVWdQTzg1THpqV25PclQrWExvcEhTZE9JNVozV1dhVlVQbkZvQ3NrUmd3OHJ2U3NTTzd2SnZXaUNqUE9hVm83VlpRT2JnQjlDUThsVUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEyODIyCWZpbGU6UGV0d2luc18wLjEuNTNfYWFyY2g2NC5hcHAudGFyLmd6Ck9SRXFaNmVyN2xFWHVlU0doTlhTR2dJVHdQYWZxdlgxR0dNajA2S3hIZGRhd3pIQ1N0TUNCYWY5cEN1UDV2bkNMUWRIVkVGOTQ2Ymt0aERUWkVyRUFBPT0K",
-      "url": "https://download.petwins.site/cos/releases/v0.1.53/Petwins_0.1.53_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LME5IUStPNGdrMEhSR1hqbU51aUMvdGtGM1NKMTN3ZmRSZ0RUb3lCdVBFS1FFVVB4NkxJck9RYXdCemFjL2RDZlZ5bzdFS1RaclV2aHc1K3A4UFh0VEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzEyMTk5CWZpbGU6UGV0d2lucy5hcHAudGFyLmd6CmVOdDV5Y0pJd0R5MEZSbzRiZk1hdCtnbU43T0l0M3ltUFhldWtacW1CWHVweHduQnZXNXlrNzl4MDB4b1cwelNDWWxicGMzTjZESkNLTUFhTjdkdEJBPT0K",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.74/Petwins_0.1.74_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMEwyTS8yeDRNdG5TcUVRMHdORDF0WnBGTWYzMno4SXZqRjhJWVAwRGlocUptZVN0eE1wNFBDVFBSNTRudFJNa3poQ0hPSWRIdmdUMG9OZ0U5R2xUN2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEyOTMzCWZpbGU6UGV0d2luc18wLjEuNTNfeDY0LmFwcC50YXIuZ3oKeGNrSStzZ1JJZkpSYXdOREtmUnF4ampidDAwK1gyTG83T2Foc1lmdUlURWtEU0NCWFo1V1NKQ0RFTDFjZDJ4d09KaEQrdGVmdC91V09nYUgwZ1c1QWc9PQo=",
-      "url": "https://download.petwins.site/cos/releases/v0.1.53/Petwins_0.1.53_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMENpQU5BbkZRYy9sV1o1OHFqWUs3OEI2TTAzeXpRa1AzUGpha2RycVJvRDNJM3Bwa2p1bU5FbjhtdlFZQzI5T2dIMXpLMGlGekJIbHpHTlBCMmIxK3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzEyOTgxCWZpbGU6UGV0d2lucy5hcHAudGFyLmd6CnA1RjYvNXRQZ0NrcW5pbzVjVzJPczZnaGxRTGRXaWxWSExHdFdpTzRmVWk4ejRjTFlLdUE3SVphWGMwbk5JeTIvZDBLMzFIeS81U2FWYkJucmJpb0FRPT0K",
+      "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.74/Petwins_0.1.74_x64.app.tar.gz"
     }
   }
 }
