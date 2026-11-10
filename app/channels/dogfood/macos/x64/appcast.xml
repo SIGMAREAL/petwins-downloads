@@ -3,12 +3,12 @@
     <channel>
         <title>猫在</title>
         <item>
-            <title>0.1.62</title>
-            <pubDate>Sun, 01 Nov 2026 07:53:32 +0800</pubDate>
-            <sparkle:version>0.1.62</sparkle:version>
-            <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
+            <title>0.1.74</title>
+            <pubDate>Tue, 10 Nov 2026 21:50:21 +0800</pubDate>
+            <sparkle:version>0.1.74</sparkle:version>
+            <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.62/Petwins_0.1.62_x64.app.tar.gz" length="82068900" type="application/octet-stream" sparkle:edSignature="XPASAqt0XbKe29LZOLObQsmP7wIcfpgBD+gj1yjLTXDPxWW2IIdNGo1qNBlGcd70f/P1V0H8Wo71G0UFNFVpAg=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.74/Petwins_0.1.74_x64.app.tar.gz" length="59876353" type="application/octet-stream" sparkle:edSignature="7RcKI0uu8xMjH0eyCJ1rYbA7C8v/bksrw7mhKRZl0IHPWv3Bv+sL4Fy+QIREBxiq4I5buAiVIf1Opnb9mTuSBw=="/>
         </item>
     </channel>
 </rss>
