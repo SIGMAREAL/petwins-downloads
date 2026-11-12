@@ -3,12 +3,12 @@
     <channel>
         <title>猫在</title>
         <item>
-            <title>0.1.74</title>
-            <pubDate>Tue, 10 Nov 2026 21:50:19 +0800</pubDate>
-            <sparkle:version>0.1.74</sparkle:version>
-            <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
+            <title>0.1.76</title>
+            <pubDate>Thu, 12 Nov 2026 12:57:02 GMT</pubDate>
+            <sparkle:version>0.1.76</sparkle:version>
+            <sparkle:shortVersionString>0.1.76</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.74/Petwins_0.1.74_aarch64.app.tar.gz" length="58196059" type="application/octet-stream" sparkle:edSignature="1064ejM4yFAym3S0/DniokdfryqC14T7HsFPUq1wvbAYHL8xeRtvvXKaS4SUvzbpBMKg0AK9zWC47xMAu21MAQ=="/>
+            <enclosure url="https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.76/Petwins_0.1.76_aarch64.app.tar.gz" length="58187521" type="application/octet-stream" sparkle:edSignature="dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTlNOTFLK21LMEZsdm0xa3VVSDVuMGh0VEJ0WlRXZlJuZFBVellOd2hoZ0ZMRkVHY0NRaGp1VXd6WGhyUFVNNDdtMmMwbmg4MVhnYnlNY2JFR0U5Tk0wRUg5TFVqUGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzU2MjI0CWZpbGU6UGV0d2lucy5hcHAudGFyLmd6CjE2MFVXcndWWEdHdEszLy9XdzNsQllKOUZuY0hQWjVaaEF0VElKeEtRcnA5bk5CWXc2RzhOZjc1VXJJZW43YWtVbWlnWUFjUE9IRVlWNWtWMGZLQ0FnPT0K"/>
         </item>
     </channel>
 </rss>
