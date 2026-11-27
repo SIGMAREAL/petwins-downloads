@@ -65,6 +65,15 @@
         "name": "Petwins_0.1.76_x64.app.tar.gz.sig",
         "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.76/Petwins_0.1.76_x64.app.tar.gz.sig"
       }
+    },
+    "windows-x86_64": {
+      "installer": {
+        "name": "Petwins_0.1.104_x64-support-production-setup.exe",
+        "url": "https://download.petwins.site/files/petwins-windows/v0.1.104/Petwins_0.1.104_x64-support-production-setup.exe",
+        "sha256": "08f3abdbaa76e46e08028ff8e1a822fd34fc196af0728d54947c576b70ea58ad",
+        "bytes": 50154278,
+        "authenticode": "unsigned"
+      }
     }
   },
   "targets": {
@@ -103,6 +112,21 @@
         "updaterSignature": {
           "name": "Petwins_0.1.76_x64.app.tar.gz.sig",
           "url": "https://github.com/SIGMAREAL/petwins-downloads/releases/download/v0.1.76/Petwins_0.1.76_x64.app.tar.gz.sig"
+        }
+      }
+    },
+    "windows-x86_64": {
+      "version": "0.1.104",
+      "tag": "v0.1.104",
+      "sourceSha": "7d50fa7bbd47bb296a368c17c415974e6c4136cb",
+      "publishedAt": "2026-11-27T07:05:56.188Z",
+      "downloads": {
+        "installer": {
+          "name": "Petwins_0.1.104_x64-support-production-setup.exe",
+          "url": "https://download.petwins.site/files/petwins-windows/v0.1.104/Petwins_0.1.104_x64-support-production-setup.exe",
+          "sha256": "08f3abdbaa76e46e08028ff8e1a822fd34fc196af0728d54947c576b70ea58ad",
+          "bytes": 50154278,
+          "authenticode": "unsigned"
         }
       }
     }
